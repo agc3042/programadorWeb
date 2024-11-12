@@ -1,0 +1,14 @@
+git add --all
+
+Segundo comando
+
+git commit -m 'Meu primeiro commit'
+
+Terceiro comando 
+
+git push
+
+-----------------------------------------
+git pull - traz da nuvem para o pc
+
+git clone + link
